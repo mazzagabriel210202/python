@@ -3,6 +3,7 @@ prototipo arvores com painel solar da smart city
 
 funçao do projeto
 
+
 1-arvores com painel solar serão colocados em ponttos estrategicos da cidade afim de absorver luz do sol e tranformala em energia eletrica
 
 2-codigo feito usando python
